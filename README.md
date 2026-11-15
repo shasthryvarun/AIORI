@@ -1,5 +1,3 @@
-no# AIORI-3-HACKATHON-PROJECTS
-This repository will contain the code and resources for the AIORI-3 hackathon that will be developed during the AIORI-3
 
 # YOUTUBE LINK 
 https://youtu.be/ed6vltzb-A8
@@ -20,7 +18,7 @@ python main.py --data PEMS08.npz
 Replace `PEMS08.npz` with your dataset.
 
 # BRIEF DESCRIPTION 
-Our problem is PS-003: Federated Traffic-Flow Prediction with Communication-Cost Evaluation.
+Our problem Federated Traffic-Flow Prediction with Communication-Cost Evaluation.
 
 Cameras and sensors on roads collect traffic data. Normally, all of this data is sent to one central computer, which uses it to predict future traffic. This uses a lot of internet data, and it keeps people's private travel records in one place.
 
